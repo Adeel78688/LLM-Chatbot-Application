@@ -649,7 +649,7 @@ We welcome contributions from the community! Here's how you can help:
 ### Development Setup for Contributors
 ```bash
 # 1. Fork and clone
-git clone https://github.com/Adel78688/llm-Chatbot-Application.git
+git clone https://github.com/Adeel78688/llm-Chatbot-Application.git
 cd llm-chatbot-Application
 
 # 2. Set up development environment
@@ -704,3 +704,4 @@ If you find this project useful, please give it a star! ⭐
 **Happy Coding! 🚀**
 
 </div>
+
